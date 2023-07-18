@@ -103,12 +103,12 @@ h3{
 }
 .top{
     position: absolute;
-    transform: translate(-60%,-50%);
+    transform: translate(-40%,-75%);
     width: 100%;
 }
 .bottom{
     position: absolute;
-    transform: translate(50%,45%);
+    transform: translate(70%,20%);
 }
 @media (max-width:650px) {
     #card{
